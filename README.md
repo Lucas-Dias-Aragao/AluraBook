@@ -22,7 +22,9 @@
 
 * **Async Awayt**
 
+* **Completar campos automaticamente com as informações obtidas pela requisção**
 
 
 
-<p>Confira o resultado: </p>
+
+<p>Confira o resultado: https://lucas-dias-aragao.github.io/AluraBook/ </p>
