@@ -25,9 +25,13 @@
 
 ### No treinamendo de métodos para Array:
 
-* **Método forEach**
+* **Método forEach:** Foi usado para adicionar cada livro na página de acordo com o resultado da requisição.
 
-* **Método MAP**
+* **Método MAP:** Foi usado na função para aplicar desconto no valor dos livros.
+
+* **Método Filter:** Utilizado ao adicionar a funcionalidade de filtrar livros por categoria.
+
+* **Método Sort:** Utilizado para filtrar os livros por preço. 
 
 
 
