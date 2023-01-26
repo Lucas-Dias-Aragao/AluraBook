@@ -1,5 +1,5 @@
 
-# Js: Consumindo dados de uma API
+# AluraBook
 ### Esse projeto é uma junção dos treinamentos "Responsividade com mobile first", "JavaScript: Consumindo e tratando dados de uma API" e "JavaScript: métodos de array".
 #
 ### Durante o treinando eu aprendi:
