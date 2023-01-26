@@ -38,4 +38,4 @@
 
 
 
-<p>Confira o resultado: </p>
+<p>Confira o resultado: https://lucas-dias-aragao.github.io/AluraBook/ </p>
