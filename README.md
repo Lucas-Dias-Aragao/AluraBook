@@ -33,9 +33,7 @@
 
 * **Método Sort:** Utilizado para filtrar os livros por preço. 
 
-
-
-
+* **Método Reduce:** Utilizado para realizar a soma do valor de todos os livros disponíveis, exibido no final da página.
 
 
 <p>Confira o resultado: https://lucas-dias-aragao.github.io/AluraBook/ </p>

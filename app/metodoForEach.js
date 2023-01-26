@@ -1,7 +1,11 @@
 const elementoParaInserirLivros = document.getElementById('livros');
+const elementoComValorTotalDeLivrosDisponiveis = document.getElementById('valor_total_livros_disponiveis');
 
 //inserindo os livros na tela conforme resultado da requisição, com forEach
 function exibirOsLivrosNaTela(listaDeLivros) {
+  //linha que manipula informação da barra com valor total de livros no final da página
+  elementoComValorTotalDeLivrosDisponiveis.innerHTML = '';
+
   //inicia a página sempre com conteúdo vazio
   elementoParaInserirLivros.innerHTML = '';
 
